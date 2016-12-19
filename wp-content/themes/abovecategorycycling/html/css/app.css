@@ -8784,6 +8784,14 @@ a.ac-link {
       line-height: 2.2rem; }
     .single-bike .tab-contents .tab-content.current {
       display: block; }
+    .single-bike .tab-contents .tab-content .table-wrapper {
+      margin-right: 5rem; }
+    .single-bike .tab-contents .tab-content table {
+      width: 100%; }
+      .single-bike .tab-contents .tab-content table tr {
+        border-bottom: 1px solid #e2e2e2; }
+        .single-bike .tab-contents .tab-content table tr td {
+          padding: 5px 0; }
   .single-bike .tab-contents ul {
     font-family: 'Helvetica Neue';
     list-style: disc; }
